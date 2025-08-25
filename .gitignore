@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Preswald export/builds
+preswald_export/
+*.zip
+
+# Data archives
+data/*.zip
+
